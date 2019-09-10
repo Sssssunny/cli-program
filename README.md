@@ -2,7 +2,7 @@
 
 ## cli 실행
 ```
-$ npm -i g
+$ npm i -g
 $ cli
 ```
 
