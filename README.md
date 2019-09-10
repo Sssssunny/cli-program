@@ -19,7 +19,7 @@ $ cli
 ## public\html\new.html 파일 생성하는 명령어
 ```
 $ cli template html -d public/html -n new
-$ cli template html -d 폴더/폴더 -n 파일명(html)
+public\html\new.html 생성 완료
 ```
 
 > 해당 명령어를 통해 public\html 폴더에 new.html 파일을 생성한다. new.html 파일의 내용은 command.js에서 선언한 htmlTemplate 변수이다.
